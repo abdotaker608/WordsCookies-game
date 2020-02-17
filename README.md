@@ -6,4 +6,4 @@ there are currently 3 levels in the game but you can add more levels by changing
 levels in the info.py
 
 gameDesc:
-you are given a set of letters that you have to make words of.
+you are given a set of letters that you have to make words of..
